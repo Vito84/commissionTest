@@ -17,7 +17,7 @@ class MainKtTest {
             amountOfPreviousTransfers = amountOfPreviousTransfers
         )
         //assert
-        assertEquals(6000, result)
+        assertEquals(5000, result)
     }
 
     @Test
